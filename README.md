@@ -1,3 +1,5 @@
+#Linktree
+Aplikasi gabut yang gw buat untuk memenuhi deskripsi ig gw. Kalo mau pake silahkan, edit sesuai kemauan anda.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
