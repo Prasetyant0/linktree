@@ -102,12 +102,3 @@ footer {
   text-align: center;
   padding-top: 10px;
 }
-a:hover{
-  background-color: black;
-  color: white;
-  transition: all 0.8s ease-in-out;
-  -webkit-transition:;
-  -moz-transition:;
-  -ms-transition:;
-  -o-transition:;
-}
