@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prasetyant0.github.io/linktree/static/css/main.9ecd3c08.css",
+    "main.js": "/Prasetyant0.github.io/linktree/static/js/main.3f8da224.js",
+    "static/media/bowo.png": "/Prasetyant0.github.io/linktree/static/media/bowo.5a445a2cbecf42bbd6db.png",
+    "static/media/laptop.png": "/Prasetyant0.github.io/linktree/static/media/laptop.ed3ad988817692044aff.png",
+    "index.html": "/Prasetyant0.github.io/linktree/index.html",
+    "main.9ecd3c08.css.map": "/Prasetyant0.github.io/linktree/static/css/main.9ecd3c08.css.map",
+    "main.3f8da224.js.map": "/Prasetyant0.github.io/linktree/static/js/main.3f8da224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ecd3c08.css",
+    "static/js/main.3f8da224.js"
+  ]
+}
